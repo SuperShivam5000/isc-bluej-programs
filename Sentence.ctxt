@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sentence
+comment1.params=
+comment1.target=Sentence()
+comment2.params=b
+comment2.target=void\ readsent(java.lang.String)
+comment3.params=b
+comment3.target=int\ freVowels(java.lang.String)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=b
+comment5.target=void\ main(java.lang.String)
+numComments=6

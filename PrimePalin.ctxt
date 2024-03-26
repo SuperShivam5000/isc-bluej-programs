@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PrimePalin
+comment1.params=X\ Y
+comment1.target=PrimePalin(int,\ int)
+comment2.params=n
+comment2.target=int\ isPrime(int)
+comment3.params=n
+comment3.target=int\ isPalindrome(int)
+comment4.params=
+comment4.target=void\ generate()
+comment5.params=X\ Y
+comment5.target=void\ main(int,\ int)
+numComments=6

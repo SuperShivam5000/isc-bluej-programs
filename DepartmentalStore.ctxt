@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DepartmentalStore
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ enquiry()
+comment3.params=
+comment3.target=void\ add()
+comment4.params=
+comment4.target=void\ transaction()
+comment5.params=
+comment5.target=void\ generate()
+numComments=6

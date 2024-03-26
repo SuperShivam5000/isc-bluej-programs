@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MaxArray
+comment1.params=m
+comment1.target=MaxArray(int)
+comment2.params=
+comment2.target=void\ inputarray()
+comment3.params=
+comment3.target=void\ largest()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=n
+comment5.target=void\ main(int)
+numComments=6
